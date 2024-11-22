@@ -1,6 +1,6 @@
 .gradle
 .idea
-classes
+#classes
 generated
 lib
 libs
