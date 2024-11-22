@@ -11,3 +11,4 @@ gradle
 gradle.properties
 gradlew
 gradlew.bat
+manifest.MF
