@@ -21,7 +21,7 @@ tasks.test {
 }
 
 application {
-    mainClass = "my.dir.Test"
+    mainClass = "hexlet.code.Main"
 }
 
 tasks.getByName("run", JavaExec::class) {
